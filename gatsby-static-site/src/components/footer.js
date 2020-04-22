@@ -3,7 +3,7 @@ import React from "react"
 const Footer=()=>{
     return(
         <div>
-        <p>created by poonam,@poonam mohata</p>
+            <p>created by poonam,@poonam mohata</p>
         </div>
     )
 }

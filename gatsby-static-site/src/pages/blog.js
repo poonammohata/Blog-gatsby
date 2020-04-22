@@ -3,11 +3,10 @@ import Layout from "../components/layout.js"
 
 const BlogPage=()=>{
     return(
-    
-            <Layout>
+        <Layout>
             <h1>Blog</h1>
             <p>coming soon ...Stay tuned</p>
-            </Layout>
+        </Layout>
         
     )
 }
